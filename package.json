@@ -1,0 +1,27 @@
+{
+  "name": "ifttt",
+  "version": "1.0.0",
+  "description": "Desktop application for Linux, Windows & Mac to do multiple set of automation's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIT-Developer-Community/IFTTT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MIT-Developer-Community/IFTTT/issues"
+  },
+  "devDependencies": {
+    "electron": "^10.1.5"
+  },
+  "dependencies": {
+    "electron-json-storage": "^4.1.8",
+    "electron-log": "^4.2.0"
+  },
+  "homepage": "https://github.com/MIT-Developer-Community/IFTTT#readme"
+}
